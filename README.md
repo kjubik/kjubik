@@ -1,4 +1,4 @@
-### Hi! I'm Wojtek, your next web developer.
+## Hi! I'm Wojtek, your next web developer.
 Inquisitive problem-solver focused on progressing as a full stack web dev.<br/>
 Building projects with a Svelte + Tailwind + Firebase tech-stack.<br/>
 <br/>
