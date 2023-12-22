@@ -1,4 +1,4 @@
-### Hi, there! I'm Wojtek, your next web developer.
+### Hi, there! I'm Wojtek, your next junior developer.
 Inquisitive problem-solver focused on progressing as a full stack web dev.<br/>
 Building projects with React + TypeScript + Firebase. Falling in love with Rust.<br/>
 <br/>
