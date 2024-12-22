@@ -1,5 +1,5 @@
 ## Hi, there! I'm Wojtek.
-Junior frontend developer with an eye for design.<br/>
+Junior web developer with an eye for design.<br/>
 Currently working with Angular, in love with Svelte and interested in compiler theory.
 
 ## My Tech Stack
