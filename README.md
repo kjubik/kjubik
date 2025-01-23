@@ -8,10 +8,10 @@ Here are some of the technologies I am most familair with.
 
 - **Languages:** JavaScript, TypeScript, Python, Dart, Haskell
 - **Frameworks:** Angular, React, Svelte, Flutter
-- **Workflow:** Git, Jira, Confluence, JetBrains IDEs
 - **Databases:** MongoDB, PostgreSQL
 - **OS:** Linux (Ubuntu & Fedora), Windows
-- **Cloud Services:** Firebase, Amazon Web Services
+- **Cloud Services:** Amazon Web Services, Firebase, Supabase
+- **Workflow:** Git, Jira, Confluence, JetBrains IDEs
 
 ## Contact
 
