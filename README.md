@@ -1,4 +1,4 @@
-## Hi, there! I'm Wojtek.
+# Hi, there! I'm Wojtek.
 Junior web developer with an eye for design.<br/>
 Currently working with Angular, in love with Svelte and interested in compiler theory.
 
