@@ -4,7 +4,7 @@ Currently working with Angular, in love with Svelte and interested in compiler t
 
 ## My Tech Stack
 
-Here are some of the technologies I am most familair with.
+Here are some of the technologies I am most familiar with.
 
 - **Languages:** JavaScript, TypeScript, Python, Dart, Haskell
 - **Frameworks:** Angular, React, Svelte, Flutter
