@@ -1,6 +1,6 @@
-I'm a web developer who has an eye for design and loves writing good code.
+Web developer with an eye for design and a passion for writing clean, efficient code.
 
-Currently on the final semester of my Computer Science bachelor's degree. Always looking to learn and grow.
+Recently completed my Bachelor's in Computer Science and currently pursuing my Master's degree. Always looking to learn and grow.
 
 I'm most familiar with:
 
