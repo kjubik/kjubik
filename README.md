@@ -1,11 +1,11 @@
 **Hey! How's it going? ● Cześć! Co tam słychać? ● Salut ! Ça roule ?**
 
-Web developer with two years of industry experience. Most productive in roles that value deep problem-solving, confident presenting, and decision-making autonomy.
+Junior web developer with two years of industry experience. Most productive in roles that value deep problem-solving, confident presenting, and decision-making autonomy.
 
 Currently pursuing my Master's degree in Computer Science with a specialization in Artificial Intelligence. Researching adaptive feedback strategies in RAG systems that adjust based on a student's progress. Always looking to learn and grow.
 
 ### Latest project
-**[KinetIQ](https://github.com/kjubik/KinetIQ)** - Angular + FastAPI web app for visualizing athlete performance data. Built for [JustWin](https://justwin.pl/).
+**[KinetIQ](https://github.com/kjubik/KinetIQ)** &mdash; Angular + FastAPI web app for visualizing athlete performance data. Built for [JustWin](https://justwin.pl/).
 
 ---
 
@@ -51,7 +51,7 @@ Currently pursuing my Master's degree in Computer Science with a specialization 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-In my free time you can find me flashing bouldering projects or over-optimizing my board game strategies.
+In my free time, you can find me flashing bouldering projects or over-optimizing my board game strategies.
 
 Want to build something remarkable together?<br/>
 Feel free to reach out to me at [wojkub.work@gmail.com](mailto:wojkub.work@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/wojkub). 
