@@ -1,4 +1,4 @@
-**Hey! How's it going? ● Cześć! Co tam słychać? ● Salut ! Ça roule ?**
+### Hey! How's it going? ● Cześć! Co tam słychać? ● Salut ! Ça roule ?
 
 Web developer with two years of industry experience. Most productive in roles that value deep problem-solving, confident presenting, and decision-making autonomy.
 
