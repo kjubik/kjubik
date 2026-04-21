@@ -1,6 +1,6 @@
 **Hey! How's it going? ● Cześć! Co tam słychać? ● Salut ! Ça roule ?**
 
-Junior web developer with two years of industry experience. Most productive in roles that value deep problem-solving, confident presenting, and decision-making autonomy.
+Web developer with two years of industry experience. Most productive in roles that value deep problem-solving, confident presenting, and decision-making autonomy.
 
 Currently pursuing my Master's degree in Computer Science with a specialization in Artificial Intelligence. Researching adaptive feedback strategies in RAG systems that adjust based on a student's progress. Always looking to learn and grow.
 
