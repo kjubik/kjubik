@@ -51,7 +51,7 @@ Currently pursuing my Master's degree in Computer Science with a specialization 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-In my free time, you can find me flashing bouldering projects or over-optimizing my board game strategies.
+In my free time, you can find me bouldering or over-optimizing my board game strategies.
 
 Want to build something remarkable together?<br/>
 Feel free to reach out to me at [wojkub.work@gmail.com](mailto:wojkub.work@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/wojkub). 
