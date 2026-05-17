@@ -4,9 +4,9 @@ Web developer with two years of industry experience. Most productive in roles th
 
 Currently pursuing my Master's degree in Computer Science with a specialization in Artificial Intelligence. Researching adaptive feedback strategies in RAG systems that adjust based on a student's progress. Always looking to learn and grow.
 
-### Latest project
-**[Fiszka](https://fiszka.net)** (under development) &mdash; AI-powered web app helping medical studnets in exam prep by generating flashcards from their study materials
-**[KinetIQ](https://github.com/kjubik/KinetIQ)** &mdash; Angular + FastAPI web app for visualizing athlete performance data. Built for [JustWin](https://justwin.pl/).
+### Latest projects
+* **[Fiszka](https://fiszka.net)** (under development) &mdash; AI-powered web app helping medical studnets in exam prep by generating flashcards from their study materials
+* **[KinetIQ](https://github.com/kjubik/KinetIQ)** &mdash; Angular + FastAPI web app for visualizing athlete performance data. Built for [JustWin](https://justwin.pl/).
 
 ---
 
